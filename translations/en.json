@@ -1,0 +1,118 @@
+{
+  "about": "About",
+  "about_text": " We are non-profit organization that puts the power to save lives in the palms of your hand, makes donating blood as much easy for you. You can easily post urgent blood need here and find it quickly or you can become someone's hero.\n\nIf you have any comment or question, please get in touch with us!",
+  "accept": "Accept",
+  "add_location": "Add location",
+  "add_number": "Add contact number (recommended)",
+  "agreement": "By creating an account you agree to our",
+
+  "blood_type": "Blood type",
+
+  "call": "call",
+  "cancel": "Cancel",
+  "change_email": "Change email",
+  "change_password": "Change password",
+  "change_photo": "Change Profile Photo",
+  "chats": "Chats",
+  "choose_from_gallery": "Choose from Gallery",
+  "confirm_pass": "Confirm password",
+  "create": "Create",
+  "create_account": "Create account",
+  "current_pass": "Current password",
+
+  "dark": "Dark",
+  "days": "days ago",
+  "delete_account": "Delete account",
+
+  "edit": "Edit",
+  "edit_profile": "Edit profile",
+  "example": "example: +994 12 345 67 89",
+  "email": "Email",
+
+  "find": "Find",
+  "forgot_password": "Forgot your password?",
+  "fullname": "Full name",
+
+  "have_an_account": "Already have an account?",
+  "home": "Home",
+  "hours": "hours ago",
+
+  "language": "Language",
+  "light": "Light",
+  "log_out": "Log out",
+  "login": "Login",
+
+  "me": "Me",
+  "message": "message",
+  "minutes": "minutes ago",
+  "my_posts": "My posts",
+
+  "new_pass": "New password",
+  "new_post": "New Post",
+
+  "pass_hint": "should contain at least 6 symbols",
+  "password": "Password",
+  "post": "post",
+  "posts": "Posts",
+  "profile": "Profile",
+
+  "rate": "Rate",
+  "rate_it": "If you enjoy using this app, would you mind taking a moment to rate it? \n\nThanks for your support!",
+  "rate_us": "Rate us",
+  "recent_chats": "Recent Chats",
+  "remove_photo": "Remove Current Photo",
+  "repeat_pass": "Repeat password",
+
+  "save": "Save",
+  "save_changes": "Save Changes",
+  "saved": "Saved",
+  "search_by_location": "Search by location",
+  "search_by_blood_type": "Search by Blood Type",
+  "select_blood": "Select blood type",
+  "share_post": "Share your first post",
+  "send_email": "Send email",
+  "settings": "Settings",
+  "signup": "Sign up",
+  "start": "Get started",
+  "submit": "Submit",
+
+  "take_photo": "Take Photo",
+  "this_user": "This user has no posts",
+  "tell_more": "Tell us more",
+  "terms_and_conditions": "Terms & Conditions",
+  "terms_text": "GENERAL\n\nThese Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity and Us, concerning your access to and use of our mobile application (the “Application”). \nYou agree that by accessing the Application, you have read, understood, and agree to be bound by all of these Terms and Conditions Use. \n\nIF YOU DO NOT AGREE WITH ALL OF THESE TERMS AND CONDITIONS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APPLICATION AND YOU MUST DISCONTINUE USE IMMEDIATELY. \n\n\nREGISTRATION\n\nYou are required to register with the Application. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.\n\nYou may not access or use the Application for any purpose other than that for which we make the Application available. The Application may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.We may provide you areas on the Application to leave reviews or ratings. When posting a review, you must comply with the following criteria: \n(1) you should have firsthand experience with the person/entity being reviewed; \n(2) your reviews should not contain offensive profanity, or abusive, racist, offensive, or hate language; \n(3) your reviews should not contain discriminatory references based on religion, race, gender, national origin, age, marital status, sexual orientation, or disability; \n(4) your reviews should not contain references to illegal activity; \n(5) you should not be affiliated with competitors if posting negative reviews; \n(6) you should not make any conclusions as to the legality of conduct; \n(7) you may not post any false or misleading statements; and \n(8) you may not organize a campaign encouraging others to post reviews, whether positive or negative. \n\n\nMODIFICATIONS AND INTERRUPTIONS\n\nWe reserve the right to change, modify, or remove the contents of the Application at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Application. We also reserve the right to modify or discontinue all or part of the Application without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Application.We cannot guarantee the Application will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Application, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Application at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Application during any downtime or discontinuance of the Application. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Application or to supply any corrections, updates, or releases in connection therewith.",
+  "thanks_for_support": "Thanks for your support!",
+  "theme": "Theme",
+  "type_here": "Type here to start send",
+
+  "username": "Username",
+
+  "welcome": "Welcome",
+
+  "russian": "Russian",
+  "azerbaijani": "Azerbaijani",
+  "english": "English",
+
+  "O+": "O+",
+  "O-": "O-",
+  "A+": "A+",
+  "A-": "A-",
+  "B+": "B+",
+  "B-": "B-",
+  "AB+": "AB+",
+  "AB-": "AB-",
+
+  "": "",
+  "john": "johndoe@gmail.com",
+  "johnd": "John Doe",
+  "johndo": "johndoe@gmail.com",
+
+  "pass_required": "Password required",
+  "pass_required2": "You should provide your password in order to delete your account",
+
+  "pass_match": "Passwords must match",
+  "req": "is required",
+  "agree": "You must agree to our Terms and Conditions to continue",
+
+  "reset": "Reset"
+}
